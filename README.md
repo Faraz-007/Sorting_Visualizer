@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-You can view the live version of the Sorting Visualizer [here](https://sorting-visualizer-xi-three.vercel.app/).
+You can view the live version of the Sorting Visualizer [here]().
 
 ## Contributing
 
