@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-You can view the live version of the Sorting Visualizer [here]().
+You can view the live version of the Sorting Visualizer [here](https://sortingvisualizer001.netlify.app).
 
 ## Contributing
 
